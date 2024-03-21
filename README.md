@@ -15,7 +15,7 @@
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
 - [Connect with me on Facebook](https://www.facebook.com/Reeyan1999/)
-- [Connect with me on Discord]: just_r0bbit
+- Discord: just_r0bbit
 
 <!---
 reeyan-afzal/reeyan-afzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

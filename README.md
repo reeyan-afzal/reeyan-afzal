@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Reeyan Afzal.
+### Hey there! 👋 I'm Reeyan Afzal（瑞恒）
 
 🌟 Welcome to my GitHub profile! I'm passionate about exploring the world of Data and Languages.
 
@@ -8,6 +8,7 @@
 ### Connect with Me:
 
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
+- Facebook: [Connect with me on Facebook](https://www.facebook.com/Reeyan1999/)
 
 <!---
 reeyan-afzal/reeyan-afzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

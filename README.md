@@ -7,14 +7,15 @@
 
 ### Check my other stuff on:
 
-- freeCodeCamp: [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)
-- Coursera: [Coursera](https://www.coursera.org/learner/reeyan-afzal)
-- LeetCode: [LeetCode](https://leetcode.com/reeyan-afzal/)
+- [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)
+- [Coursera](https://www.coursera.org/learner/reeyan-afzal)
+- [LeetCode](https://leetcode.com/reeyan-afzal/)
 
 ### Connect with Me:
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
-- Facebook: [Connect with me on Facebook](https://www.facebook.com/Reeyan1999/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
+- [Connect with me on Facebook](https://www.facebook.com/Reeyan1999/)
+- [Connect with me on Discord]: just_r0bbit
 
 <!---
 reeyan-afzal/reeyan-afzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

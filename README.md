@@ -13,8 +13,8 @@
 
 ### Connect with Me:
 
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
-- [Connect with me on Facebook](https://www.facebook.com/Reeyan1999/)
+- [LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
+- [Facebook](https://www.facebook.com/Reeyan1999/)
 - Discord: just_r0bbit
 
 <!---

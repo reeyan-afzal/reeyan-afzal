@@ -10,6 +10,7 @@
 - [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)
 - [Coursera](https://www.coursera.org/learner/reeyan-afzal)
 - [LeetCode](https://leetcode.com/reeyan-afzal/)
+- [Credly](https://www.credly.com/users/reeyan-afzal-khan/badges)
 
 ### Connect with Me:
 

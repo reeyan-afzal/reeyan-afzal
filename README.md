@@ -1,21 +1,20 @@
-### Check my other stuff on:
-
-- [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)
-- [Coursera](https://www.coursera.org/learner/reeyan-afzal)
-- [Credly](https://www.credly.com/users/reeyan-afzal-khan/badges)
-  
 ### About Me:  
 
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
-### Connect with Me:
+#### Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
 - [Facebook](https://www.facebook.com/Reeyan1999/)
 - Discord: just_r0bbit
 
-### Algorithms-LeetCode [LeetCode](https://leetcode.com/u/reeyan-afzal/)
-### Algorithms-HackerRank [HackerRank](https://www.hackerrank.com/profile/reeyanafzal1999)
+#### Check my other stuff on:
+
+- [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)
+- [Coursera](https://www.coursera.org/learner/reeyan-afzal)
+- [Credly](https://www.credly.com/users/reeyan-afzal-khan/badges)
+- [LeetCode](https://leetcode.com/u/reeyan-afzal/)
+- [HackerRank](https://www.hackerrank.com/profile/reeyanafzal1999)
 
 ## Languages and Tools 
 <div>

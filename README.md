@@ -8,17 +8,9 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 |  <a href='https://www.linkedin.com/in/reeyan-afzal/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/></a> | <a href='https://www.facebook.com/reeyanafzal1999/'><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/></a> |<a href='https://discord.com/users/969167942392631326/'><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/></a> |
 
 #### Check my other stuff on:
-
-- [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)
-- [Coursera](https://www.coursera.org/learner/reeyan-afzal)
-- [Credly](https://www.credly.com/users/reeyan-afzal-khan/badges)
-- [LeetCode](https://leetcode.com/u/reeyan-afzal/)
-- [HackerRank](https://www.hackerrank.com/profile/reeyanafzal1999)
-
-
 | freeCodeCamp | Coursera | LeetCode | HackerRank
 |----------|----------|----------|----------|
-|  <a href='https://www.freecodecamp.org/reeyan-afzal'><img src="https://design-style-guide.freecodecamp.org/img/fcc_primary_small.svg" title="freecodecamp"  alt="freecodecamp" width="55" height="55"/></a> | <a href='https://www.coursera.org/learner/reeyan-afzal'><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="coursera" alt="coursera" width="55" height="55"/></a> |<a href='https://leetcode.com/u/reeyan-afzal/'><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="leetcode" alt="leetcode" width="55" height="55"/></a> |<a href='https://www.hackerrank.com/profile/reeyanafzal1999'><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="hackerrank" alt="hackerrank" width="55" height="55"/></a> |
+|  <a href='https://www.freecodecamp.org/reeyan-afzal'><img src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" title="freecodecamp"  alt="freecodecamp" width="55" height="55"/></a> | <a href='https://www.coursera.org/learner/reeyan-afzal'><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="coursera" alt="coursera" width="55" height="55"/></a> |<a href='https://leetcode.com/u/reeyan-afzal/'><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="leetcode" alt="leetcode" width="55" height="55"/></a> |<a href='https://www.hackerrank.com/profile/reeyanafzal1999'><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="hackerrank" alt="hackerrank" width="55" height="55"/></a> |
 
 ## Languages and Tools 
 <div>

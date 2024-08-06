@@ -5,7 +5,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 #### Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/reeyan-afzal/)
-- [Facebook](https://www.facebook.com/Reeyan1999/)
+- [Facebook](https://www.facebook.com/reeyanafzal1999/)
 - Discord: just_r0bbit
 
 #### Check my other stuff on:

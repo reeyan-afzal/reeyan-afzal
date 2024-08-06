@@ -8,6 +8,10 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 - [Facebook](https://www.facebook.com/reeyanafzal1999/)
 - Discord: just_r0bbit
 
+| LinkedIn | JS | C |
+|----------|----------|----------|
+|  <a href='https://www.linkedin.com/in/reeyan-afzal/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/></a> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  
+
 #### Check my other stuff on:
 
 - [freeCodeCamp](https://www.freecodecamp.org/reeyan-afzal)

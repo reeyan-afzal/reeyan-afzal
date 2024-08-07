@@ -3,16 +3,27 @@
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess. 我也学了中文已经差不多三年半了。
 
 #### Connect with Me
-<div align="center">
 | freeCodeCamp | Coursera | LeetCode |
 |:--------:|:--------:|:--------:|
 |  <a href='https://www.linkedin.com/in/reeyan-afzal/'><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/></a> | <a href='https://www.facebook.com/reeyanafzal1999/'><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/></a> |<a href='https://discord.com/users/969167942392631326/'><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/></a> |
+
+<h4 align="center">Connect with Me</h4>
+<div align="center">
+  <a href='https://www.linkedin.com/in/reeyan-afzal/'>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/>
+  </a>
+  <a href="https://www.facebook.com/reeyanafzal1999/">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/>
+  </a>
+  <a href="https://discord.com/users/969167942392631326/">
+    <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/>
+  </a>
 </div>
 
 #### Check my other stuff on:
 | freeCodeCamp | Coursera | LeetCode | HackerRank
 |:--------:|:--------:|:--------:|:--------:|
-|  <a href='https://www.freecodecamp.org/reeyan-afzal'><img align="center" src="https://seeklogo.com/images/F/freecodecamp-logo-4C9DF5EF4B-seeklogo.com.png" title="freecodecamp"  alt="freecodecamp" width="55" height="55"/></a> | <a href='https://www.coursera.org/learner/reeyan-afzal'><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="coursera" alt="coursera" width="55" height="55"/></a> |<a href='https://leetcode.com/u/reeyan-afzal/'><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="leetcode" alt="leetcode" width="55" height="55"/></a> |<a href='https://www.hackerrank.com/profile/reeyanafzal1999'><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="hackerrank" alt="hackerrank" width="55" height="55"/></a> |
+|  <a href='https://www.freecodecamp.org/reeyan-afzal'><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freecodecamp"  alt="freecodecamp" width="55" height="55"/></a> | <a href='https://www.coursera.org/learner/reeyan-afzal'><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="coursera" alt="coursera" width="55" height="55"/></a> |<a href='https://leetcode.com/u/reeyan-afzal/'><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="leetcode" alt="leetcode" width="55" height="55"/></a> |<a href='https://www.hackerrank.com/profile/reeyanafzal1999'><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="hackerrank" alt="hackerrank" width="55" height="55"/></a> |
 
 ## Languages and Tools 
 <div>

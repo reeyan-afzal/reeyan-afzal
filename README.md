@@ -15,12 +15,12 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
   </a>
 </p>
 
-<p align="center">
+<div align="center">
 #### Connect with Me
 | freeCodeCamp | Coursera | LeetCode |
 |:--------:|:--------:|:--------:|
 |  <a href='https://www.linkedin.com/in/reeyan-afzal/'><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/></a> | <a href='https://www.facebook.com/reeyanafzal1999/'><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/></a> |<a href='https://discord.com/users/969167942392631326/'><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/></a> |
-</p>
+</div>
 
 #### Check my other stuff on:
 | freeCodeCamp | Coursera | LeetCode | HackerRank

@@ -1,7 +1,7 @@
 ### About Me:  
 
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess. 我也学了中文已经差不多三年半了。
-<h4 align="center">Connect with Me</h4>
+I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ year experience in Python. 我也学了中文已经差不多三年半了
+<h5 align="center">Connect with Me</h5>
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 15px;">

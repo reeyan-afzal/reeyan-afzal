@@ -1,16 +1,15 @@
 ### About Me:  
 
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess. 我也学了中文已经差不多三年半了。
-
 <h4 align="center">Connect with Me</h4>
 <div align="center">
-  <a href='https://www.linkedin.com/in/reeyan-afzal/' style="margin: 0 15px;">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/>
-  </a>
-  <a href="https://www.facebook.com/reeyanafzal1999/" style="margin: 0 15px;">
+  <a href='https://www.linkedin.com/in/reeyan-afzal/'>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/reeyanafzal1999/">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/>
-  </a>
-  <a href="https://discord.com/users/969167942392631326/" style="margin: 0 15px;">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/969167942392631326/">
     <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/>
   </a>
 </div>
@@ -18,7 +17,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 #### Check my other stuff on:
 | freeCodeCamp | Coursera | LeetCode | HackerRank
 |:--------:|:--------:|:--------:|:--------:|
-|  <a href='https://www.freecodecamp.org/reeyan-afzal'><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freecodecamp"  alt="freecodecamp" width="55" height="55"/></a> | <a href='https://www.coursera.org/learner/reeyan-afzal'><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="coursera" alt="coursera" width="55" height="55"/></a> |<a href='https://leetcode.com/u/reeyan-afzal/'><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="leetcode" alt="leetcode" width="55" height="55"/></a> |<a href='https://www.hackerrank.com/profile/reeyanafzal1999'><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="hackerrank" alt="hackerrank" width="55" height="55"/></a> |
+|  <a href='https://www.freecodecamp.org/reeyan-afzal'><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freecodecamp"  alt="freecodecamp" width="55" height="40"/></a> | <a href='https://www.coursera.org/learner/reeyan-afzal'><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="coursera" alt="coursera" width="55" height="55"/></a> |<a href='https://leetcode.com/u/reeyan-afzal/'><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="leetcode" alt="leetcode" width="55" height="55"/></a> |<a href='https://www.hackerrank.com/profile/reeyanafzal1999'><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="hackerrank" alt="hackerrank" width="55" height="55"/></a> |
 
 ## Languages and Tools 
 <div>
@@ -44,7 +43,6 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img align="center" src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VBox" alt="VBox" width="55" height="55"/>|
 
 ### OS:
-
 | MacOS | Windows | Arch
 |:--------:|:--------:|:--------:|
 |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>

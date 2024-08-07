@@ -1,7 +1,7 @@
 ### About Me:  
 
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ year experience in Python. 我也学了中文已经差不多三年半了
-<h5 align="center">Connect with Me</h5>
+I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN), LSTM, and LLMs. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ year experience in Python. 我也学了中文已经差不多三年半了
+<h4 align="center">Connect with Me</h4>
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 15px;">
@@ -31,9 +31,9 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 <div>
 
 ### Languages:
-| Python | JS | C |
-|:--------:|:--------:|:--------:|
-|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  
+| Python | JS | C | Flutter-Dart |
+|:--------:|:--------:|:--------:|:--------:|
+|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter"  alt="flutter" width="55" height="55"/> | 
 
 ### Command over these Frameworks and Libraries for Python:
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
@@ -53,6 +53,6 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 ### OS:
 | MacOS | Windows | Arch
 |:--------:|:--------:|:--------:|
-|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
+|<img align="center" src="https://img.icons8.com/color/200/mac-logo.png" title="MacOS" alt="MacOS" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/>
 
 ---

@@ -22,31 +22,33 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
   </tr>
 </table>
 
-<h4 align="center">Check my other stuff on:</h4>
+<h4 align="center">Check My Other Stuff</h4>
 <table align="center">
+  <tr>
+    <th align="center" style="padding: 0 15px;">freeCodeCamp</th>
+    <th align="center" style="padding: 0 15px;">Coursera</th>
+    <th align="center" style="padding: 0 15px;">LeetCode</th>
+    <th align="center" style="padding: 0 15px;">HackerRank</th>
+  </tr>
   <tr>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.freecodecamp.org/reeyan-afzal'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="70" height="55"/>
-        <p>freeCodeCamp</p>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.coursera.org/learner/reeyan-afzal'>
         <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png" title="Coursera" alt="Coursera" width="55" height="55"/>
-        <p>Coursera</p>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href='https://leetcode.com/u/reeyan-afzal/'>
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" title="LeetCode" alt="LeetCode" width="55" height="55"/>
-        <p>LeetCode</p>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.hackerrank.com/profile/reeyanafzal1999'>
         <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="HackerRank" alt="HackerRank" width="55" height="55"/>
-        <p>HackerRank</p>
       </a>
     </td>
   </tr>

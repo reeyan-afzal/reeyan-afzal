@@ -33,7 +33,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
   <tr>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.freecodecamp.org/reeyan-afzal'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="55" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="55" height="55"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">

@@ -1,7 +1,7 @@
 ### About Me:  
 
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN), LSTM, and LLMs. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ year experience in Python. 我也学了中文已经差不多三年半了
-<h4 align="center">Connect with Me</h4>
+<h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 15px;">
@@ -22,7 +22,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
   </tr>
 </table>
 
-<h4 align="center">Check My Other Stuff</h4>
+<h4 align="center">PROFILE & PORTFOLIO</h4>
 <table align="center">
   <tr>
     <th align="center" style="padding: 0 15px;">freeCodeCamp</th>
@@ -33,7 +33,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
   <tr>
     <td align="center" style="padding: 0 15px;">
       <a href='https://www.freecodecamp.org/reeyan-afzal'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="70" height="55"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3RDGeowT-tXoENPOOyKQQgGWj8EuYaMKEA&s" title="freeCodeCamp" alt="freeCodeCamp" width="55" height="40"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">

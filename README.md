@@ -1,6 +1,6 @@
 ### About Me:  
 
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN), LSTM, and LLMs. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ year experience in Python. 我也学了中文已经差不多三年半了
+I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN), LSTM, and LLMs. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess with 1+ years of experience in Python and SQL. 我也学了中文已经差不多三年半了
 <h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
   <tr>
@@ -63,7 +63,7 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 |  <a href="https://github.com/reeyan-afzal/NAVTTC_PCAP"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></a> | <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <a href="https://github.com/reeyan-afzal/hanzai_app"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter"  alt="flutter" width="55" height="55"/></a> | 
 
 ### Command over these Frameworks and Libraries for Python:
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV | Django | PyQT | PyGame
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV | Django | PyQT | PyGame  |
 |:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="55" height="55"/>| <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="pyqt" alt="pyqt" width="55" height="55"/>| <img align="center" src="https://www.pygame.org/docs/_images/pygame_tiny.png" title="pygame" alt="pygame" width="100" height="40"/>| 
 
